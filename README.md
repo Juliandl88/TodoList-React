@@ -1,3 +1,13 @@
+Consigna
+
+Desarrollar una app de "TO DO" en javascript (Angular/React) y desplegarla en heroku.
+Recomendación: Investigar cómo desplegar una app en heroku antes de comenzar el desarrollo.
+ - Crear una app en angular que tenga un input y un botón "Agregar"
+ - Al escribir una línea en el input, agrega la línea en una lista.
+ - Luego al hacer click en alguna línea de esa lista, le cambia el estilo y la pone tachada.
+ - Desplegarla en la herramienta online heroku y compartir el link.
+ - Bonus: guardar la lista de elementos en la base de datos que nos provee heroku.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
